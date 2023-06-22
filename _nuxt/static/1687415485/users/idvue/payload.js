@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/users/idvue", {data:[{}],fetch:{},mutations:[]});
